@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  roomNumber: 1
+  buildName: MyString
+  address: MyString
+
+two:
+  roomNumber: 1
+  buildName: MyString
+  address: MyString
